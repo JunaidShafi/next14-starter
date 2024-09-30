@@ -1,0 +1,11 @@
+.navContainer{
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: space-between;
+}
+.Logo{
+    padding: 10px;
+    font-family: fantasy;
+    font-size: large;
+}
